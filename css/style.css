@@ -1,0 +1,142 @@
+body {
+    font-family: "Roboto";
+}
+
+footer {
+     margin: 0;
+    padding: 0;
+    color: #FFFFFF;
+    background-color: #2F303A;
+    padding-top: 10px;
+}
+
+h1 {
+    margin: 10px 50px 10px 100px;
+    color: white; 
+    font-size: 44px;
+    font-weight: 900;
+}
+
+.hiro-section {
+    background-color: #2F303A;
+    /* background-image: 
+    url("/imeges/Img\ Overlay.png"); */
+    padding: 70px;
+}
+
+.conteiner {
+    display: flex;
+
+    align-content: center;
+}
+
+.nav-list {
+    display: flex;
+}
+
+h4 {
+    margin: 0;
+    padding: 0;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+button {
+      margin: 10px 300px 100px 550px;
+    color: white;
+    background-color: #2196F3;
+    width: 152px;
+     height: 30px;
+     font-size: 16px;
+     font-weight: 700;
+}
+
+.title {
+    background-color: #F5F4FA;
+}
+
+a {
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+
+li {
+    margin-right: 10px;
+    list-style: none;
+}
+
+.item {
+    margin-right: 50px;
+}
+
+.list {
+    display: flex;
+}
+
+.list-item {
+    margin-right: 100px;
+    width: 250px;
+}
+
+h2 {
+margin: 40px 550px;
+font-size: 36px;
+font-weight: 700;
+}
+
+.title4 {
+    margin: 0;
+    padding: 0;
+}
+
+.title3 {
+    margin: 0;
+    padding: 0;
+    color: #2196F3;
+    margin: 18px 10px 10px 30px;
+    font-size: 26px;
+    font-weight:  700;
+
+}
+
+.title2 {
+    color: black;
+    margin-right: 10px;
+    font-size: 26px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    font-weight: 400;
+
+}
+
+h3 {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.title4 {
+    color: white;
+     margin: 0;
+    padding: 0;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.footer {
+padding-top: 10px;
+}
+
+.main-imege {
+    padding: 0;
+    margin: 0;
+}
